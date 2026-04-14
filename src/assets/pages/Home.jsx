@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <section style={styles.container}>
       <h1>Welcome to Cookie Monster Cookies 🍪</h1>
-      <p>Fresh baked cookies made daily in Riyadh</p>
+      <p>Fresh baked cookies made daily in Sharjah</p>
 
       <div style={styles.buttons}>
         <button style={styles.btn}>View Menu</button>
