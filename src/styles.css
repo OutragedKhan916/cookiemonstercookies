@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #fff7e6;
+  text-align: center;
+}
+
+.navbar {
+  background: #8b4513;
+  color: white;
+  padding: 15px;
+}
+
+.hero {
+  padding: 60px;
+  background: #ffe0b2;
+}
+
+.order {
+  padding: 40px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #d2691e;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+footer {
+  background: #8b4513;
+  color: white;
+  padding: 10px;
+}
